@@ -1,2 +1,2 @@
-# Deck-Of-Card
-Welcome to deckofcards simulation
+# Hotel Reservation
+Welcome to Hotel Reservation System
